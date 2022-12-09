@@ -1,0 +1,1 @@
+{"name":"Local: 4","url":"c:\\Ved\\Academic\\Coding\\Codechef\\68_4\\4.cpp","tests":[{"id":1670575778199,"input":"3\n5 5 2\n1 2 3 4 5\n3 4 4\n1 1 1\n5 3 2\n3 2 3 1 1","output":"18\n3\n10"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Ved\\Academic\\Coding\\Codechef\\68_4\\4.cpp","group":"local","local":true}
